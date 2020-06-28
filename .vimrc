@@ -78,6 +78,7 @@ set undofile
 set autochdir
 
 set undofile
+set undodir=~/.vim/.undo//
 
 set noerrorbells
 
